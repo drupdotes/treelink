@@ -1,56 +1,56 @@
 {
-  "name": "Trevor Tyler Lee",
-  "bio": "Free, open source LinkTree alternative built with Astro & Tailwind CSS",
+  "name": "Bienvenida :)",
+  "bio": "Vamos a trabajar en ti",
   "profilePicture": "/profile-picture.jpg",
-  "url": "https://trevortylerlee.com",
-  "blog": true,
+  "url": "https://tusilencionoteprotege.com",
+  "blog": false,
   "iconLinks": [
     {
       "id": "1728534577184",
       "icon": "link",
-      "url": "https://boogerbuttcheeks.com"
+      "url": "https://tusilencionoteprotege.com"
     },
     {
       "id": "1728534577185",
       "icon": "email",
-      "url": "mailto:ttl@trevortylerlee.com"
+      "url": "mailto:tusilencionoteprotege.rocio@gmail.com"
     },
     {
       "id": "1728534577186",
-      "icon": "github",
-      "url": "https://github.com/trevortylerlee"
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@tusilencionoteprotege"
     },
     {
       "id": "1728534577187",
-      "icon": "twitter",
-      "url": "https://twitter.com/boogerbuttcheek"
+      "icon": "spotify",
+      "url": "https://open.spotify.com/show/6jRleU6G3WLoZQ66wVpf3e?si=a1af205b433e4f46"
     }
   ],
   "customLinks": [
     {
       "id": "1728534585738",
-      "title": "🍌 donkey kong country on the snes",
-      "url": "https://youtu.be/7hgr-ZuzXng?si=v3dr9mu2cBL_D4ED"
+      "title": "Pide cita por whatsapp ⬇️",
+      "url": "https://wa.link/kc0vwt"
     },
     {
       "id": "1728534585739",
-      "title": " Best macOS apps",
-      "url": "https://macintoshapps.com"
+      "title": "Mi podcast #DejateHablar🎙️ ",
+      "url": "https://linktr.ee/dejatehablarteam"
     },
     {
       "id": "1728534585740",
-      "title": "💕 36 Questions To Fall In Love",
-      "url": "https://thirtysixquestions.org"
+      "title": "Mi canal de YOUTUBE!",
+      "url": "https://www.youtube.com/@tusilencionoteprotege/videos"
     },
     {
       "id": "1728534585741",
-      "title": "SuperWeb Themes",
-      "url": "https://superwebthemes.com"
+      "title": "Accede a mi libro ''por qué duele tanto''<3",
+      "url": "https://amzn.to/4cXpfMM"
     },
     {
       "id": "1728534585742",
-      "title": "♥ Donate",
-      "url": "https://donate.stripe.com/aEU6ow7VEf7u7sseUU"
+      "title": "Cómo gestionar tus redes sociales - @RedesSinDrama",
+      "url": "https://www.instagram.com/redessindrama"
     }
   ]
 }
