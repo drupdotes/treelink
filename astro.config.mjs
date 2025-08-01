@@ -4,7 +4,6 @@ import sitemap from "@astrojs/sitemap";
 
 import icon from "astro-icon";
 
-import criticalCss from "astro-critical-css";
 
 // https://astro.build/config
 export default defineConfig({
