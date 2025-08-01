@@ -12,5 +12,5 @@ export default defineConfig({
     "/blog": "/",
   },
   site: "https://example.treelink.com",
-  integrations: [tailwind(), sitemap(), icon(), criticalCss()],
+  integrations: [tailwind(), sitemap(), icon()  ],
 });
